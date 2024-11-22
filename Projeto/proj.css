@@ -6,7 +6,7 @@ body{
 }
 /* -------------------------------------------------------------------------------  */
 
-h1#inicio{
+h1#cabecalho{
     font-size: 3em;
     margin-left: 90px;
     margin-right: 80px;
@@ -43,4 +43,46 @@ a.link{
     border-radius: 100px;
 }
 
+#primeiro_titulo{
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 3.1875em;
+    
+}
+
+h2{
+    text-align: justify;
+    font-size: 2.25em;
+    
+}
+div#p2{
+    width:36.9375em ;
+    height: 12.75em;
+    padding: auto;
+    margin-top: 5.8125em;
+    position: absolute;
+    left: 52%;
+}
+
+#primeira_imagem{
+    width:36.875em ;
+    height: 23.375em;
+    margin-top: 5.8125em;
+    position: absolute;
+    left: 14%;
+    border-radius: 3.125em;
+}
+
+#p4{
+    font-size: 1.25em;
+    color: white;
+    background-color: #4E34B5;
+    width: 12.5em;
+    height: 3.125em;
+    border-radius: 6.25em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 /* -------------------------------------------------------------------------------  */
