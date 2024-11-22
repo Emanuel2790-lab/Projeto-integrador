@@ -4,8 +4,15 @@ body{
     font-family: "poppins";
     margin: 0;
 }
+/* -------------------------------------------------------------------------------  */
 
-#p1{
+h1#inicio{
+    font-size: 3em;
+    margin-left: 90px;
+    margin-right: 80px;
+}
+
+div#p1{
     display: flex;
     border: #4E34B5 solid 2px;
     background-color: #4E34B5;
@@ -13,7 +20,24 @@ body{
     color: white;
 }
 
-a{
+a.link{
     text-decoration: none;
     color: inherit;
+    margin-right: 70px;
+    font-size: 1.25em;
+    border: white solid;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    border-radius: 100px;
 }
+
+h4.menu{
+    font-size: 1.5em;
+    margin-right: 80px;
+}
+/* -------------------------------------------------------------------------------  */
