@@ -162,27 +162,13 @@ div#p2{
     font-size: 3em;
     display: flex;
     flex-direction: column;
-    margin-right: 20px;
-}
-
-.desc2{
-    font-size: 3em;
-    margin: 0%;
 }
 
 #bloco3{
     display: flex;
-    flex-wrap: wrap;
+    justify-content: center;
 }
 
-#parte2{
-    margin-left: 100px;
-}
-
-#parte3{
-    margin-right: 90px;
-}
-
-#parte4{
-    margin-right: 120px;
+#parte5{
+margin-right: 0px;
 }
