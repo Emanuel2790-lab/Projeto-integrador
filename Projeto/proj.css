@@ -59,6 +59,7 @@ h2{
     display: flex;
     flex-direction: row;
     justify-content:center;
+    height: 37em;
 }
 div#p2{
     width:36.9375em ;
@@ -125,15 +126,63 @@ div#p2{
     justify-content: space-around;
 }
 
-#titulob3{
+#titulob2{
     margin-left: 1.6em;
     margin-bottom: 1.8em;
     font-size: 2.5em;
     margin-top: 1.6em;
 }
 
-#bloco3{
+#bloco2{
     border: #d4d4d4 solid;
     background-color: #d4d4d4 ;
-    height: 730px;
+    height: 46.25em;
+}
+
+/* ------------------------------------------------------------------- */
+
+.icon1{
+    font-size: 150px;
+    margin: 0%;
+   
+}
+
+.parte1{
+   margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+}
+
+.titulo2{
+    margin: 0%;
+    font-size: 3em;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+}
+
+.desc2{
+    font-size: 3em;
+    margin: 0%;
+}
+
+#bloco3{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#parte2{
+    margin-left: 100px;
+}
+
+#parte3{
+    margin-right: 90px;
+}
+
+#parte4{
+    margin-right: 120px;
 }
