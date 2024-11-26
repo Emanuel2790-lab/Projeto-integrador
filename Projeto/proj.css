@@ -301,3 +301,49 @@ ul.topicos{
 li{
     margin-bottom: 0.75em;
 }
+
+#bloco-6{
+    height: 24.5em;
+    background-color: #1E1919;
+    margin-top: 5.9375em;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+h1.titulo_bloco-6{
+    font-size: 2.5em;
+    margin-left: 3.2em;
+    margin-top: 1.6em;
+}
+.monobloco-6{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    flex-direction:column;
+    font-size: 1.25em;
+}
+#segundo_bloco-6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.contato_bloco-6{
+    color: white;
+    background-color: black;
+    width:13.5em;
+    height: 2.725em;
+    border-radius: 6.25em;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+#icones_bloco-6{
+    margin-left: 1.2em;
+    margin-top: 0%;
+}
+.img_bloco-6{
+    width:1em;
+    height: 1em;
+}
