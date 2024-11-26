@@ -144,8 +144,6 @@ div#p2 {
     height: 46.25em;
 }
 
-/* ------------------------------------------------------------------- */
-
 .icon1{
     font-size: 150px;
     margin: 0%;
@@ -249,11 +247,4 @@ p.subtitulo_bloco-4{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-#parte5{
-margin-right: 0px;
-}
-
-.desc2{
-    margin: 0%;
 }
